@@ -1,6 +1,6 @@
 # pokeApi
 
-Prueba Tecnica para Satori Tech
+Prueba Técnica para Satori Tech
 
 ## Demo
 <p align="center">
